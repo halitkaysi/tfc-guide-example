@@ -9,7 +9,7 @@ variable "instance_type" {
 }
 
 variable "instance_name" {
-  description = "EC2 instance name"
+  description = "EC2 instance name 02"
   default     = "Provisioned by Terraform"
 }
 
